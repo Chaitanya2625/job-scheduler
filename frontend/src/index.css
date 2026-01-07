@@ -1,0 +1,18 @@
+/* Global reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Page background */
+body {
+  min-height: 100vh;
+  background: linear-gradient(
+    135deg,
+    #ffffff 0%,
+    #f8fafc 40%,
+    #eef2f7 100%
+  );
+  font-family: Arial, Helvetica, sans-serif;
+}
